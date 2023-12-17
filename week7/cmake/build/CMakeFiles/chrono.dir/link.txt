@@ -1,0 +1,2 @@
+/usr/bin/ar qc libchrono.a 
+/usr/bin/ranlib libchrono.a
