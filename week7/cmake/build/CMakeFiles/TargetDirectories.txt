@@ -1,4 +1,0 @@
-/home/denis/Downloads/progect/LabsC/week7/cmake/build/CMakeFiles/task.exe.dir
-/home/denis/Downloads/progect/LabsC/week7/cmake/build/CMakeFiles/chrono.dir
-/home/denis/Downloads/progect/LabsC/week7/cmake/build/CMakeFiles/edit_cache.dir
-/home/denis/Downloads/progect/LabsC/week7/cmake/build/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/task.exe.dir/main.cpp.o -o bin/task.exe  libchrono.a 

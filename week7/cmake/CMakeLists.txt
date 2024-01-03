@@ -8,9 +8,9 @@ project(task1)
 set(EXECUTABLE_OUTPUT_PATH bin)
 
 # Добавляем исполняемый файл
-add_executable(task.exe main.cpp)
+add_executable(task.exe src/main.cpp)
 
-add_library(chrono chrono.h)
+add_library(chrono src/chrono.h)
 
 set_target_properties(chrono PROPERTIES LINKER_LANGUAGE CXX)
 
