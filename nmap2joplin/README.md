@@ -12,4 +12,4 @@ Options:
 
 Example:
 
-./nmap2joplin -f <path to the file> -d <directory to save>
+./nmap2joplin -f "path to the file" -d "directory to save"
